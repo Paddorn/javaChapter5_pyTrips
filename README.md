@@ -1,2 +1,2 @@
 # javaChapter5_pyTrips
-Pythagorean Triplets up to 500
+App that creats a table containing Pythagorean Triplets with a user defined value up to 500
